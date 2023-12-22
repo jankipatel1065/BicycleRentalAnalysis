@@ -1,0 +1,6 @@
+202306-divvy-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+202305-divvy-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+Database.zip filter=lfs diff=lfs merge=lfs -text
+202304-divvy-tripdata.csv filter=lfs diff=lfs merge=lfs -text
+*.csv filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
